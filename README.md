@@ -1,1 +1,1 @@
-This repository contains all  my current SQL projects.
+I will be populating this repository with a list of all  my completed SQL projects.
